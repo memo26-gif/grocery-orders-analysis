@@ -1,6 +1,6 @@
 # 🛒 Grocery Orders Analysis & Predictive Modeling
 
-An end-to-end data analytics and machine learning project conducted as part of the **Graduation Project for Business Information Systems (BIS)** at **Abu Qir Higher Institute**. This project explores transactional grocery data to uncover deep consumer behavior insights and implements a predictive AI model to forecast customer return intervals.
+An end-to-end data analytics and machine learning project conducted as part of the AI & Machine Learning Training Program at Creativa Innovation Hub. This project explores transactional grocery data to uncover deep consumer behavior insights and implements a predictive AI model to forecast customer return intervals.
 
 **Presented by:** Maha Mohamed Abdel-moniem
 
